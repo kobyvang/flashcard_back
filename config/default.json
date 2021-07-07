@@ -1,1 +1,3 @@
-
+{
+    "mongoURI":"mongodb+srv://koby:koby2@cluster0.ngzaf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
